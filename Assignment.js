@@ -22,7 +22,7 @@ console.log(result3)
 
 Results
 PS C:\Users\EKWUOMA GIFT\Desktop\Java> node Assignment.js
-150.85714285714286
-6
-40
+(1)150.85714285714286
+(2)6
+(3)40
 PS C:\Users\EKWUOMA GIFT\Desktop\Java>
